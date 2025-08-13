@@ -29,5 +29,6 @@
     <a href="/dashboard" class="button">Masuk ke Dashboard</a>
     <p><strong>test otomatis jenkins</strong></p>
     <p><strong>coba lagi update untuk build jenkins ke docker</strong></p>
+    <p><strong>coba lagi update untuk build jenkins ke docker!</strong></p>
 </body>
 </html>
