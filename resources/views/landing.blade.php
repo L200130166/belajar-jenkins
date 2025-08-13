@@ -27,7 +27,10 @@
     <h1>Selamat Datang di Aplikasi Laravel Saya 🎉</h1>
     <p>Ini adalah halaman landing page pertama kamu.</p>
     <a href="/dashboard" class="button">Masuk ke Dashboard</a>
-    <strong>test otomatis jenkins</strong>
-    <p><strong>test ulang otomatis jenkins</strong></p>
+
+    <p><strong>test otomatis jenkins</strong></p>
+    <p><strong>coba lagi update untuk build jenkins ke docker</strong></p>
+    <p><strong>coba lagi update untuk build jenkins ke docker!</strong></p>
+>>>>>>> db734883f65e369a6b5be2b408dc32565954798a
 </body>
 </html>
